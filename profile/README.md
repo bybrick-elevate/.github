@@ -1,4 +1,4 @@
-## Hi there 👋
+![Screenshot](Unknown.png)
 
 Vi specialiserar oss på att utveckla nya innovativa produkter och skapa helhetslösningar utifrån dina behov,
 både för startup-företaget och till den väletablerade aktören.
